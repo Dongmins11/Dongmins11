@@ -21,7 +21,8 @@ DirectX9 ,DirectX11, MFC, WIN32 API
 kozx13@gamil.com
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongmins11&show_icons=true&theme=radical)
+
 
 <!--
 **Dongmins11/Dongmins11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
