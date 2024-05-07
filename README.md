@@ -17,6 +17,12 @@ DirectX9 ,DirectX11, MFC, WIN32 API
 ## 공부중
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
+## Email
+kozx13@gamil.com
+
+
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
+
 <!--
 **Dongmins11/Dongmins11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
