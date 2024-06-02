@@ -12,7 +12,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 
 ## 협업 툴
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white , Flex
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) , Flex
 
 ## Library, SDK
 DirectX9 ,DirectX11, MFC, WIN32 API
