@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-안녕하세요 신동민 입니다.
-현재 공부하면서 직장을 찾고있는 중 입니다.
+안녕하세요 신동민 입니다. 직장을 찾고있는 중 입니다.
 
 ## 언어
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,9 +15,6 @@
 
 ## Library, SDK
 DirectX9 ,DirectX11, MFC, WIN32 API
-
-## 공부중
-
 
 ## Email
 kozx13@gamil.com
