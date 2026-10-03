@@ -147,7 +147,7 @@
   - 최신 프레임을 우선 처리하도록 변경하여 버퍼 누적과 자세 판단 지연 개선
   - 시스템 성능 측정 및 결과 분석
 
-[📂 Repository](https://github.com/EmbeddedVisionPoseCoach/POCO)
+[📂 Repository](https://github.com/Dongmins11/POCO)
 · [📄 Report](https://drive.google.com/file/d/16OyNF7ngtve8rrRyiLknU3rjZ7oI_OXE/view)
 · [🎬 Demo](https://youtu.be/UHQtAFz2T6M)
 
