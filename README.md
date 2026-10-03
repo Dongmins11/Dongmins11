@@ -157,7 +157,7 @@
 |---|---|---|
 | PLC 자동화 공정 시스템 | 소재 분류·적재 시스템의 배출 시퀀스, 선택·전체 배출 및 인터락 구현 | ![PLC](https://img.shields.io/badge/PLC-009999?style=flat-square) ![GX Works2](https://img.shields.io/badge/GX_Works2-E60012?style=flat-square) ![GT Designer3](https://img.shields.io/badge/GT_Designer3-0078D6?style=flat-square) |
 | Unity 모바일 인디게임 | 3인 팀에서 게임 전체 프로그래밍을 맡아 모바일 출시 | ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square) ![Plastic SCM](https://img.shields.io/badge/Plastic_SCM-ED6B28?style=flat-square) |
-| 젤다의 전설: 야생의 숨결 모작 | 인벤토리·퀘스트·장비 교체 시스템과 게임 UI 구현 | ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square) |
+| Defengo: 랜덤 디펜스 라이브서비스 | Unity 모바일 게임의 캐릭터·퀘스트·상점 등 콘텐츠 개발, 서버 API 연동 및 결제·광고 오류 개선 | ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square) |
 | DirectX / WinAPI 게임 제작 | 2D 슈팅·3D 액션·방탈출 게임의 캐릭터 조작, 전투·퍼즐 및 맵 편집기 구현 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![DirectX 9·11](https://img.shields.io/badge/DirectX_9%C2%B711-107C10?style=flat-square) ![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=flat-square) ![MFC](https://img.shields.io/badge/MFC-9B2C2C?style=flat-square) |
 
 <br>
