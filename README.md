@@ -24,7 +24,7 @@
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square)
+![C#](assets/csharp-badge.svg)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD343)
 
 ### Robotics & Embedded Systems
@@ -40,6 +40,7 @@
 
 ### GUI & Windows Development
 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=black)
 ![MFC](https://img.shields.io/badge/MFC-9B2C2C?style=flat-square)
 ![Win32 API](https://img.shields.io/badge/Win32_API-0078D6?style=flat-square)
@@ -107,6 +108,7 @@
 - **Team**: 4명
 - **Role**: STM32F411 기반 Controller 하드웨어 구성 및 펌웨어 개발
 - **Stack**:
+  ![CAN](https://img.shields.io/badge/CAN-009688?style=flat-square)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
   ![STM32 HAL](https://img.shields.io/badge/STM32_HAL-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
   ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-78A942?style=flat-square)
@@ -134,6 +136,8 @@
 - **Team**: 4명
 - **Role**: 프론트엔드·백엔드, 모니터암 수평제어, 멀티프로세싱·자원 최적화, 성능지표 설계·분석
 - **Stack**:
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD343)
   ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=black)
   ![Raspberry Pi 5](https://img.shields.io/badge/Raspberry_Pi_5-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
@@ -157,9 +161,9 @@
 
 | Project | Highlights | Stack |
 |---|---|---|
-| PLC 자동화 공정 시스템 | 소재 분류·적재 시스템의 배출 시퀀스, 선택·전체 배출 및 인터락 구현 | ![PLC](https://img.shields.io/badge/PLC-009999?style=flat-square) ![GX Works2](https://img.shields.io/badge/GX_Works2-E60012?style=flat-square) ![GT Designer3](https://img.shields.io/badge/GT_Designer3-0078D6?style=flat-square) |
-| Unity 모바일 인디게임 | 3인 팀에서 게임 전체 프로그래밍을 맡아 모바일 출시 | ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square) ![Plastic SCM](https://img.shields.io/badge/Plastic_SCM-ED6B28?style=flat-square) |
-| Defengo: 랜덤 디펜스 게임 라이브서비스 | Unity 모바일 게임의 캐릭터·퀘스트·상점 등 콘텐츠 개발, 서버 API 연동 및 결제·광고 오류 개선 | ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square) |
+| [PLC 자동화 공정 시스템](https://github.com/Dongmins11/PLC-Automated-Warehouse) | 소재 분류·적재 시스템의 배출 시퀀스, 선택·전체 배출 및 인터락 구현 | ![PLC](https://img.shields.io/badge/PLC-009999?style=flat-square) ![GX Works2](https://img.shields.io/badge/GX_Works2-E60012?style=flat-square) ![GT Designer3](https://img.shields.io/badge/GT_Designer3-0078D6?style=flat-square) |
+| Unity 모바일 인디게임 | 3인 팀에서 게임 전체 프로그래밍을 맡아 모바일 출시 | ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white) ![C#](assets/csharp-badge.svg) ![Plastic SCM](https://img.shields.io/badge/Plastic_SCM-ED6B28?style=flat-square) |
+| Defengo: 랜덤 디펜스 게임 라이브서비스 | Unity 모바일 게임의 캐릭터·퀘스트·상점 등 콘텐츠 개발, 서버 API 연동 및 결제·광고 오류 개선 | ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white) ![C#](assets/csharp-badge.svg) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square) |
 | DirectX / WinAPI 게임 제작 | 2D 슈팅·3D 액션·방탈출 게임의 캐릭터 조작, 전투·퍼즐 및 맵 편집기 구현 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![DirectX 9·11](https://img.shields.io/badge/DirectX_9%C2%B711-107C10?style=flat-square) ![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=flat-square) ![MFC](https://img.shields.io/badge/MFC-9B2C2C?style=flat-square) |
 
 <br>
