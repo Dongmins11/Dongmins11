@@ -100,6 +100,34 @@
 
 ---
 
+### 🖥️ POCO | AI 자세 코칭 모니터암
+
+> 사용자 자세를 분석하고, 정상 자세에서 모니터 위치와 수평을 자동으로 조절하는 시스템
+
+- **Team**: 4명
+- **Role**: 프론트엔드·백엔드, 모니터암 수평제어, 멀티프로세싱·자원 최적화, 성능지표 설계·분석
+- **Stack**:
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD343)
+  ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=black)
+  ![Raspberry Pi 5](https://img.shields.io/badge/Raspberry_Pi_5-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+  ![Multiprocessing](https://img.shields.io/badge/Multiprocessing-6C5CE7?style=flat-square)
+  ![Shared Memory](https://img.shields.io/badge/Shared_Memory-E67E22?style=flat-square)
+  ![IMU](https://img.shields.io/badge/IMU-00897B?style=flat-square)
+- **Highlights**:
+  - 사용자 프로필·보정·측정 과정을 연결한 UI와 실행 흐름 구성
+  - IMU 기반 모니터암 수평제어 참여
+  - 비전 처리와 하드웨어 제어를 분리한 멀티프로세싱 구조 적용
+  - 최신 프레임을 우선 처리하도록 변경하여 버퍼 누적과 자세 판단 지연 개선
+  - 시스템 성능 측정 및 결과 분석
+
+[📂 Repository](https://github.com/Dongmins11/POCO)
+· [📄 Report](https://drive.google.com/file/d/16OyNF7ngtve8rrRyiLknU3rjZ7oI_OXE/view)
+· [🎬 Demo](https://youtu.be/UHQtAFz2T6M)
+
+---
+
 ### 🔌 KICK-CAN | STM32 분산 임베디드 RC카 시스템
 
 > RFID 인증 기반 무선 Controller와 CAN 차량 네트워크를 연결한 4-Node 시스템
@@ -126,34 +154,6 @@
 ※ Controller는 Bluetooth로 Main Node와 통신하며, 차량 내부 노드는 CAN Bus로 연결됩니다.
 
 [📂 Repository](https://github.com/Dongmins11/KickCAN_project_Controller)
-
----
-
-### 🖥️ POCO | AI 자세 코칭 모니터암
-
-> 사용자 자세를 분석하고, 정상 자세에서 모니터 위치와 수평을 자동으로 조절하는 시스템
-
-- **Team**: 4명
-- **Role**: 프론트엔드·백엔드, 모니터암 수평제어, 멀티프로세싱·자원 최적화, 성능지표 설계·분석
-- **Stack**:
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD343)
-  ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=black)
-  ![Raspberry Pi 5](https://img.shields.io/badge/Raspberry_Pi_5-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-  ![Multiprocessing](https://img.shields.io/badge/Multiprocessing-6C5CE7?style=flat-square)
-  ![Shared Memory](https://img.shields.io/badge/Shared_Memory-E67E22?style=flat-square)
-  ![IMU](https://img.shields.io/badge/IMU-00897B?style=flat-square)
-- **Highlights**:
-  - 사용자 프로필·보정·측정 과정을 연결한 UI와 실행 흐름 구성
-  - IMU 기반 모니터암 수평제어 참여
-  - 비전 처리와 하드웨어 제어를 분리한 멀티프로세싱 구조 적용
-  - 최신 프레임을 우선 처리하도록 변경하여 버퍼 누적과 자세 판단 지연 개선
-  - 시스템 성능 측정 및 결과 분석
-
-[📂 Repository](https://github.com/Dongmins11/POCO)
-· [📄 Report](https://drive.google.com/file/d/16OyNF7ngtve8rrRyiLknU3rjZ7oI_OXE/view)
-· [🎬 Demo](https://youtu.be/UHQtAFz2T6M)
 
 ---
 
