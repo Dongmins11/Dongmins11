@@ -6,6 +6,15 @@
 </p>
 
 
+<p align="center">
+  <a href="https://dongmins11.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-프로젝트와_구현_사례-1C2B3F?style=for-the-badge" alt="포트폴리오 보기" />
+  </a>
+  <a href="https://github.com/Dongmins11/ManyFarm">
+    <img src="https://img.shields.io/badge/ManyFarm-다중_로봇_스마트팜-2D6A4F?style=for-the-badge&logo=github&logoColor=white" alt="ManyFarm 저장소" />
+  </a>
+</p>
+
 ## 👋 About Me
 
 애플리케이션, 실시간 3D, 임베디드와 로봇 등 다양한 분야의 프로젝트를 개발하고 있습니다.
@@ -75,14 +84,14 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 다중 로봇 협업 기반 스마트팜 자동화 시스템
+### 🤖 [ManyFarm | 다중 로봇 협업 스마트팜](https://github.com/Dongmins11/ManyFarm)
 
 > 예찰 로봇이 수확할 작물과 작업 위치를 찾고, 수확·이송 로봇과 선별 시스템이 협업하는 스마트팜 자동화 프로젝트
 
 - **Period**: 2026.09 – Present
 - **Team**: 7명
 - **Status**: 개발 및 통합 테스트 진행 중
-- **Role**: 예찰 로봇 자율주행, FSM 설계, 로봇 소프트웨어 구조화·통합
+- **Role**: 예찰 주행·관측 누적·작업 윈도우·수확 정차점 생성, 후반 운송 주행·도킹·인계·하역·복귀 통합
 - **Stack**:
   ![ROS 2 Jazzy](https://img.shields.io/badge/ROS_2_Jazzy-22314E?style=flat-square&logo=ros&logoColor=white)
   ![Nav2](https://img.shields.io/badge/Nav2-168AAD?style=flat-square)
@@ -96,7 +105,12 @@
   - AMCL·Odometry·TF를 활용한 위치 추정 및 좌표계 연동
   - 이동·예찰·작업 완료 등 로봇 동작을 관리하는 FSM 설계
   - 로봇별 기능과 공통 로직의 역할을 나누고, 상태·데이터 흐름을 연결하는 소프트웨어 구조 설계 및 통합
-  - 예찰 결과를 수확 로봇의 목표 작업 위치로 연결하는 로직 개발
+  - 기존 과실 ID 매칭과 윈도우 갱신, 팔 오프셋·주행선을 반영한 수확 정차점 생성
+  - 마커·LiDAR 기반 정밀 도킹과 기구 서비스의 인계·하역·복귀 상태 연동
+
+[📂 Repository](https://github.com/Dongmins11/ManyFarm)
+· [🌐 Portfolio](https://dongmins11.github.io/portfolio/)
+· [🤖 프로젝트 상세](https://dongmins11.github.io/portfolio/manyfarm/)
 
 ---
 
