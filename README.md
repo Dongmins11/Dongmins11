@@ -10,9 +10,6 @@
   <a href="https://dongmins11.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-프로젝트와_구현_사례-1C2B3F?style=for-the-badge" alt="포트폴리오 보기" />
   </a>
-  <a href="https://github.com/Dongmins11/ManyFarm">
-    <img src="https://img.shields.io/badge/ManyFarm-다중_로봇_스마트팜-2D6A4F?style=for-the-badge&logo=github&logoColor=white" alt="ManyFarm 저장소" />
-  </a>
 </p>
 
 ## 👋 About Me
@@ -109,12 +106,11 @@
   - 마커·LiDAR 기반 정밀 도킹과 기구 서비스의 인계·하역·복귀 상태 연동
 
 [📂 Repository](https://github.com/Dongmins11/ManyFarm)
-· [🌐 Portfolio](https://dongmins11.github.io/portfolio/)
 · [🤖 프로젝트 상세](https://dongmins11.github.io/portfolio/manyfarm/)
 
 ---
 
-### 🖥️ POCO | AI 자세 코칭 모니터암
+### 🖥️ [POCO | AI 자세 코칭 모니터암](https://github.com/Dongmins11/POCO)
 
 > 사용자 자세를 분석하고, 정상 자세에서 모니터 위치와 수평을 자동으로 조절하는 시스템
 
@@ -142,7 +138,7 @@
 
 ---
 
-### 🔌 KICK-CAN | STM32 분산 임베디드 RC카 시스템
+### 🔌 [KICK-CAN | STM32 분산 임베디드 RC카 시스템](https://github.com/Dongmins11/KickCAN_project_Controller)
 
 > RFID 인증 기반 무선 Controller와 CAN 차량 네트워크를 연결한 4-Node 시스템
 
