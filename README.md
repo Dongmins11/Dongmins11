@@ -85,20 +85,22 @@
 
 > 예찰 로봇이 수확할 작물과 작업 위치를 찾고, 수확·이송 로봇과 선별 시스템이 협업하는 스마트팜 자동화 프로젝트
 
-- **Period**: 2026.09 – Present
+- **Period**: 2026.09 – 2026.11
 - **Team**: 7명
-- **Status**: 개발 및 통합 테스트 진행 중
-- **Role**: 예찰 주행·관측 누적·작업 윈도우·수확 정차점 생성, 후반 운송 주행·도킹·인계·하역·복귀 통합
+- **Status**: 개발 완료 · 실물·시뮬레이션 통합 시연
+- **Role**: 예찰 로봇 개발 · 후반 운송 로봇 통합
+  - **예찰**: 경로 주행·정지 관측, 과실 ID 매칭·관측 누적, 작업 윈도우 갱신·수확 정차점 생성
+  - **운송**: 그래프 경로 주행, 마커·LiDAR 정밀 도킹, 인계·하역·복귀 FSM과 기구 서비스 연동
 - **Stack**:
   ![ROS 2 Jazzy](https://img.shields.io/badge/ROS_2_Jazzy-22314E?style=flat-square&logo=ros&logoColor=white)
   ![Nav2](https://img.shields.io/badge/Nav2-168AAD?style=flat-square)
-  ![Route Server](https://img.shields.io/badge/Route_Server-007ACC?style=flat-square)
+  ![FollowPath](https://img.shields.io/badge/FollowPath-007ACC?style=flat-square)
   ![AMCL](https://img.shields.io/badge/AMCL-2A9D8F?style=flat-square)
   ![Odometry](https://img.shields.io/badge/Odometry-E67E22?style=flat-square)
   ![TF2](https://img.shields.io/badge/TF2-6C5CE7?style=flat-square)
   ![TurtleBot](https://img.shields.io/badge/TurtleBot-70AD47?style=flat-square)
 - **Highlights**:
-  - TurtleBot 기반 Nav2·Route Server 경로 주행 구성 및 주행 파라미터 튜닝
+  - TurtleBot 기반 Nav2 FollowPath 그래프 경로 주행 구성 및 주행 파라미터 튜닝
   - AMCL·Odometry·TF를 활용한 위치 추정 및 좌표계 연동
   - 이동·예찰·작업 완료 등 로봇 동작을 관리하는 FSM 설계
   - 로봇별 기능과 공통 로직의 역할을 나누고, 상태·데이터 흐름을 연결하는 소프트웨어 구조 설계 및 통합
